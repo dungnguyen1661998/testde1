@@ -1,0 +1,174 @@
+.container-fluid {
+  height: auto;
+}
+.container-fluid .box3 {
+  float: left;
+  width: 100%;
+  height: 800px;
+  margin-top: 80px;
+  position: relative;
+}
+.container-fluid .box3 .bx3 {
+  margin-left: 10%;
+  width: 80%;
+  height: 100%;
+  position: absolute;
+}
+.container-fluid .box3 .bx3 .box31 {
+  float: left;
+  width: 60%;
+  height: 100%;
+}
+.container-fluid .box3 .bx3 .box31 h2 {
+  float: left;
+  display: block;
+  width: 100%;
+  height: 9%;
+  line-height: 80px;
+  padding-left: 10px;
+  background: #fff;
+  font-family: monospace;
+}
+.container-fluid .box3 .bx3 .box31 .box311 {
+  float: left;
+  width: 100%;
+  height: 21%;
+  border-bottom: 2px solid #808080;
+}
+.container-fluid .box3 .bx3 .box31 .box311 img {
+  float: left;
+  width: 30%;
+  height: 90%;
+  -webkit-box-shadow: 0 10px 100px rgba(0,0,0,0.75);
+  box-shadow: 0 10px 100px rgba(0,0,0,0.75);
+}
+.container-fluid .box3 .bx3 .box31 .box311 img:hover {
+  opacity: 0.8;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 {
+  float: left;
+  width: 68%;
+  height: 90%;
+  margin-left: 2%;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 .bx31 {
+  float: left;
+  width: 15%;
+  height: 45%;
+  border-bottom: 2px solid #00f;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 .bx31 h3 {
+  display: block;
+  width: 100%;
+  height: 40%;
+  float: left;
+  text-align: center;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 .bx31 h6 {
+  display: block;
+  width: 100%;
+  height: 40%;
+  float: left;
+  text-align: center;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 .bx32 {
+  float: left;
+  margin-left: 2%;
+  width: 83%;
+  height: 90%;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 .bx32 a {
+  text-decoration: none;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 .bx32 a h4 {
+  float: left;
+  display: block;
+  width: 100%;
+  height: 20%;
+  color: #ffc0cb;
+  font-family: monospace;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 .bx32 p {
+  float: left;
+  width: 100%;
+  height: 50%;
+  display: block;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 .bx32 button {
+  float: left;
+  width: 35%;
+  height: 25%;
+  border-radius: 10px;
+}
+.container-fluid .box3 .bx3 .box31 .box311 .box3111 .bx32 button p {
+  font-size: 12px;
+  padding-top: 5%;
+}
+.container-fluid .box3 .bx3 .box32 {
+  float: left;
+  width: 37%;
+  height: 100%;
+  margin-left: 3%;
+}
+.container-fluid .box3 .bx3 .box32 h2 {
+  float: left;
+  display: block;
+  width: 100%;
+  height: 8%;
+  line-height: 80px;
+  padding-left: 10px;
+  background: #fff;
+  font-family: monospace;
+}
+.container-fluid .box3 .bx3 .box32 video {
+  float: left;
+  width: 100%;
+  height: 25%;
+  background: #f00;
+}
+.container-fluid .box3 .bx3 .box32 h6 {
+  float: left;
+  margin-top: 5%;
+  width: 100%;
+  display: block;
+  height: 3%;
+  font-size: 20px;
+  font-family: monospace;
+}
+.container-fluid .box3 .bx3 .box32 p {
+  float: left;
+  margin-top: 5%;
+  width: 100%;
+  display: block;
+  height: 10%;
+  padding: 0 40px 0 0;
+  font-family: monospace;
+}
+.container-fluid .box3 .bx3 .box32 img {
+  float: left;
+  width: 100%;
+  height: 20%;
+  border-radius: 10px;
+}
+.container-fluid .box3 .bx3 .box32 .bx32 {
+  float: left;
+  width: 100%;
+  height: 24%;
+}
+.container-fluid .box3 .bx3 .box32 .bx32 h2 {
+  float: left;
+  width: 100%;
+  display: block;
+  height: 30%;
+  font-size: 18px;
+  font-family: monospace;
+}
+.container-fluid .box3 .bx3 .box32 .bx32 .bx321 {
+  float: left;
+  width: 100%;
+  height: 70%;
+}
+.container-fluid .box3 .bx3 .box32 .bx32 .bx321 .carousel .carousel-item img {
+  width: 100%;
+  height: 130px;
+}
